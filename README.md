@@ -1,5 +1,4 @@
-# eluosifangkcly.github.io
-<!DOCTYPE html>
+# 俄罗斯方块
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -97,7 +96,7 @@
 <body onload="rukou()">
 
      <video src="11.mp4" autoplay muted loop></video>
-     <h1>俄罗斯方块</h1>
+     <h1></h1>
 
     <div class="container" id="container">
        <!--  <div class="kuai"></div> -->
